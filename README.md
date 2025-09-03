@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 ## 📊 My GitHub Stats  
 
 ![Ishtar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishtardev&show_icons=true&theme=radical)
+-->
+## My top Coding Languages 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishtardev&layout=compact&theme=radical)
