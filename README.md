@@ -1,4 +1,4 @@
-## Hiya 🌸✨
+<h1 align="center"> Hiya 🌸✨</h1>
 
 <!--
 **ishtardev/ishtardev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
