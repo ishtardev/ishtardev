@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 ![Ishtar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishtardev&show_icons=true&theme=radical)
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishtardev&layout=compact&theme=radical)
+
+---
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ishtardev&theme=radical&hide_border=true)
 
