@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 ![Ishtar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishtardev&show_icons=true&theme=radical)
 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishtardev&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishtardev&layout=compact&theme=radical" height="180"/> 
+ 
   <img src="https://streak-stats.demolab.com/?user=ishtardev&theme=radical&hide_border=true" height="180"/>
 </p>
 <p align="center">
