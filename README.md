@@ -1,4 +1,4 @@
-<h1 align="center"> Hiya 🌸✨</h1>
+<h1 align="center"> Hii 🌸✨</h1>
 
 <!--
 **ishtardev/ishtardev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishtardev&layout=compact&theme=radical" height="180"/> 
- 
+</br>
   <img src="https://streak-stats.demolab.com/?user=ishtardev&theme=radical&hide_border=true" height="180"/>
 </p>
 <p align="center">
